@@ -1,3 +1,7 @@
+React + Redux/Toolkit + Firebase + YouTube Api + InfiniteScroll YouTube Clone Project
+# https://you-tube-theone.web.app
+URL^^^
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
